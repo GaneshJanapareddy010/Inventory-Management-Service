@@ -99,6 +99,8 @@ pids
 
 # Secrets
 secrets.yml
+*.ps1
+push-to-github.ps1
 secrets.properties
 
 # Temporary files
